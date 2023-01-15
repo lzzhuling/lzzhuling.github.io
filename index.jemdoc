@@ -9,29 +9,29 @@
 === Ph.D. Student
 
 #[http://www.lxy.zjut.edu.cn/ College of Science], [http://www.zjut.edu.cn/main.htm Zhejiang University of Technology]
-#Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong
 
-Email: llzzhu `at' se.cuhk.edu.hk or lzzhuling `at' gmail.com
+Department of Systems Engineering and Engineering Management
 
-== About me
+The Chinese University of Hong Kong
+
+Email: llzzhu at se.cuhk.edu.hk or lzzhuling at gmail.com
+
+[https://scholar.google.com.hk/citations?user=nOSAyisAAAAJ Google Scholar]
+
+== About Me
 
 I am currently a third-year Ph.D. student under the supervision of Professor [https://www1.se.cuhk.edu.hk/~manchoso/ Anthony Man-Cho So] at CUHK. 
 I received a B.S. in mathematics in 2017 from Zhejiang University and M.S. in computational mathematics in 2020 from Zhejiang University under the supervision of Professor Chong Li.
 I was a research assistant under the mentorship of Professor [https://www.polyu.edu.hk/ama/profile/xqyang/ Xiaoqi Yang] during February 2019 to May 2019 at The Hong Kong Polytechnic University.  
 #~~~
 
-
-== Research Interest
+== Research Interests
 Error bounds theory, manifold optimization, minimax optimization
 
-== Preprints
-. Linglingzhi Zhu, Jinxin Wang, Anthony Man-Cho So. [https://arxiv.org/abs/2112.06556 Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method.]
-
-== Journal Papers
+== Publications
 . Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang and Linglingzhi Zhu. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications, Accepted in Applied Mathematics & Optimization, 2023.
-
-== Conference Proceedings
-. Jiajin Li, Linglingzhi Zhu, Anthony Man-Cho So. Nonsmooth Composite Nonconvex-Concave Minimax Optimization, NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral.
+. Jiajin Li, Linglingzhi Zhu, Anthony Man-Cho So. Nonsmooth Composite Nonconvex-Concave Minimax Optimization, NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. [https://arxiv.org/abs/2209.10825 [arXiv]]
+. Linglingzhi Zhu, Jinxin Wang, Anthony Man-Cho So. Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method. [https://arxiv.org/abs/2112.06556 [arXiv]]
 
 == Professional Service
 Reviewer for
