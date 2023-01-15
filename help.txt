@@ -1,2 +1,4 @@
 command
 jemdoc.py index.jemdoc
+
+jemdoc -c mysite.conf index.jemdoc
