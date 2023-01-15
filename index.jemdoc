@@ -6,32 +6,37 @@
 #{}{img_left}{photos/pic1.jpg}{alt text}{256px}{301px}
 = Linglingzhi Zhu
 
-=== Ph.D. Student
+=== Ph.D. Student @ The Chinese University of Hong Kong
 
-#[http://www.lxy.zjut.edu.cn/ College of Science], [http://www.zjut.edu.cn/main.htm Zhejiang University of Technology]
+#=== Department of Systems Engineering and Engineering Management
 
-Department of Systems Engineering and Engineering Management
+#=== The Chinese University of Hong Kong
 
-The Chinese University of Hong Kong
 
-Email: llzzhu at se.cuhk.edu.hk or lzzhuling at gmail.com
+*Email:* *llzzhu* at *se.cuhk.edu.hk* or *lzzhuling* at *gmail.com*
 
-[https://scholar.google.com.hk/citations?user=nOSAyisAAAAJ Google Scholar]
+
 
 == About Me
 
 I am currently a third-year Ph.D. student under the supervision of Professor [https://www1.se.cuhk.edu.hk/~manchoso/ Anthony Man-Cho So] at CUHK. 
-I received a B.S. in mathematics in 2017 from Zhejiang University and M.S. in computational mathematics in 2020 from Zhejiang University under the supervision of Professor Chong Li.
+I received a B.S. in mathematics in 2017 from Zhejiang University and M.S. in computational mathematics in 2020 under the supervision of Professor Chong Li from Zhejiang University.
 I was a research assistant under the mentorship of Professor [https://www.polyu.edu.hk/ama/profile/xqyang/ Xiaoqi Yang] during February 2019 to May 2019 at The Hong Kong Polytechnic University.  
 #~~~
 
 == Research Interests
 Error bounds theory, manifold optimization, minimax optimization
 
-== Publications
-. Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang and Linglingzhi Zhu. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications, Accepted in Applied Mathematics & Optimization, 2023.
-. Jiajin Li, Linglingzhi Zhu, Anthony Man-Cho So. Nonsmooth Composite Nonconvex-Concave Minimax Optimization, NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. [https://arxiv.org/abs/2209.10825 [arXiv]]
-. Linglingzhi Zhu, Jinxin Wang, Anthony Man-Cho So. Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method. [https://arxiv.org/abs/2112.06556 [arXiv]]
+== Publications [https://scholar.google.com.hk/citations?user=nOSAyisAAAAJ \[Google Scholar\]]
+. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://drive.google.com/file/d/1ahUNfmelQlKDWKwuVoMlAc8M7FemiUo6/view?usp=sharing \[pdf\]] \n 
+Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang, *Linglingzhi Zhu*. \n
+Accepted in Applied Mathematics & Optimization, 2023. 
+. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
+Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
+NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. 
+. Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method [https://arxiv.org/abs/2112.06556 \[arXiv\]] \n
+*Linglingzhi Zhu*, Jinxin Wang, Anthony Man-Cho So. \n
+preprint, 2021.
 
 == Professional Service
 Reviewer for
