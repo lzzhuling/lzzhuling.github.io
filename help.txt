@@ -1,1 +1,2 @@
+command
 jemdoc.py index.jemdoc
