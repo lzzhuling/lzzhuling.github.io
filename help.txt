@@ -2,3 +2,24 @@ command
 jemdoc.py index.jemdoc
 
 jemdoc -c mysite.conf index.jemdoc
+
+
+https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-254097582-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-254097582-1');
+</script>
+
+
+
+The 5th Cross-Strait Conference on Computational Mathematics, 2018, China.
+Postgraduate Forum of Mathematical Programming Branch of Operations Research Society of China, 2021
+The 1st ORSHK Young Researchers Workshop
+NeurIPS 2022 Workshop on Optimization for Machine Learning, December, 2022
