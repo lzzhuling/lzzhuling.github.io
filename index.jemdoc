@@ -27,9 +27,12 @@ I was a research assistant under the mentorship of Professor [https://www.polyu.
 Error Bounds Theory, Manifold Optimization, Minimax Optimization, Inverse Problems
 
 == Publications [https://scholar.google.com.hk/citations?user=nOSAyisAAAAJ \[Google Scholar\]]
-. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://drive.google.com/file/d/1ahUNfmelQlKDWKwuVoMlAc8M7FemiUo6/view?usp=sharing \[pdf\]] \n 
+. Riemannian Linearized Proximal Algorithms for Nonnegative Inverse Eigenvalue Problem [https://lzzhuling.github.io/files/RLPA-NA-KLWYZ.pdf \[pdf\]] \n 
+Sangho Kum, Chong Li, Jinhua Wang, Jen-Chih Yao, *Linglingzhi Zhu*. \n
+Accepted for publication in *Numerical Algorithms*, 2023. 
+. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf \[pdf\]] \n 
 Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang, *Linglingzhi Zhu*. \n
-Accepted for publication in *Applied Mathematics & Optimization*, 2023. 
+*Applied Mathematics & Optimization* (2023) 87: 52. 
 . Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
 Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
 NeurIPS 2022 Workshop on Optimization for Machine Learning (*OPT 2022*), Oral. 
@@ -39,6 +42,7 @@ preprint, 2021.
 
 == Professional Service
 Reviewer for
+- International Conference on Machine Learning (ICML) 2023
 - Neural Information Processing Systems (NeurIPS) 2022
 - IEEE Transactions on Information Theory
 - SIAM Journal on Optimization
