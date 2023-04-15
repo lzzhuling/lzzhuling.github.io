@@ -3,6 +3,7 @@ jemdoc.py index.jemdoc
 
 jemdoc -c mysite.conf index.jemdoc
 
+python jemdoc.py index.jemdoc
 
 https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf
 
