@@ -7,6 +7,15 @@ python jemdoc.py index.jemdoc
 
 https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MQJJ523YY5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MQJJ523YY5');
+</script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-254097582-1"></script>
