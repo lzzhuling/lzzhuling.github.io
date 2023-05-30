@@ -20,7 +20,7 @@ Email: llzzhu at se.cuhk.edu.hk or lzzhuling at gmail.com
 == About Me
 
 I am currently a third-year Ph.D. student under the supervision of Professor [https://www1.se.cuhk.edu.hk/~manchoso/ Anthony Man-Cho So] at CUHK. 
-I received a B.S. in mathematics in 2017 from Zhejiang University and M.S. in computational mathematics in 2020 under the supervision of Professor Chong Li from Zhejiang University.
+I received a B.S. in mathematics in 2017 from Zhejiang University and M.S. in computational mathematics in 2020 under the supervision of Professor [https://scholar.google.com/citations?user=wXOSCJ0AAAAJ Chong Li] from Zhejiang University.
 I was a research assistant under the mentorship of Professor [https://www.polyu.edu.hk/ama/profile/xqyang/ Xiaoqi Yang] during February 2019 to May 2019 at The Hong Kong Polytechnic University.  
 #~~~
 
@@ -28,6 +28,9 @@ I was a research assistant under the mentorship of Professor [https://www.polyu.
 Error Bounds Theory, Manifold Optimization, Minimax Optimization, Inverse Problems
 
 == Publications 
+. Global Convergence Rate Analysis of Nonsmooth Nonconvex-Nonconcave Minimax Optimization [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
+Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n
+preprint, 2023.
 . LogSpecT: Feasible Graph Learning Model from Stationary Signals with Recovery Guarantees [https://arxiv.org/abs/2305.01379 \[arXiv\]]\n
 Shangyuan Liu, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
 preprint, 2023.
@@ -37,7 +40,7 @@ Accepted for publication in Numerical Algorithms, 2023.
 . Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf \[pdf\]] \n 
 Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang, *Linglingzhi Zhu*. \n
 Applied Mathematics & Optimization (2023) 87:52. 
-. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
+. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://lzzhuling.github.io/files/NNCC-OPT-LZS.pdf \[pdf\]]\n
 Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
 NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. 
 . Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method [https://arxiv.org/abs/2112.06556 \[arXiv\]] \n

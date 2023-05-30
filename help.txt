@@ -17,16 +17,6 @@ https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf
   gtag('config', 'G-MQJJ523YY5');
 </script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-254097582-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-254097582-1');
-</script>
-
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=n&d=7Z02TXbmkq5qblX5JJSrBPWiMVEG4-hi-GrizTcPQrE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"></script>
 
