@@ -25,9 +25,15 @@ I was a research assistant under the mentorship of Professor [https://www.polyu.
 #~~~
 
 == Research Interests
-Error Bounds Theory, Manifold Optimization, Minimax Optimization, Inverse Problems
+Error Bounds Theory, Manifold Optimization, Minimax Optimization, Nonsmooth Analysis, Inverse Problems
 
 == Publications 
+. Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]]\n
+*Linglingzhi Zhu*, Chong Li, Anthony Man-Cho So. \n
+preprint, 2023.
+. Doubly Smoothed GDA for Constrained Nonconvex-Nonconcave Minimax Optimization [https://arxiv.org/abs/2212.12978 \[arXiv\]]\n
+Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, Jose Blanchet, Jiajin Li. \n
+preprint, 2023.
 . Global Convergence Rate Analysis of Nonsmooth Nonconvex-Nonconcave Minimax Optimization [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
 Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n
 preprint, 2023.
@@ -50,6 +56,6 @@ preprint, 2021.
 == Professional Service
 Reviewer for
 - International Conference on Machine Learning (ICML) 2023
-- Neural Information Processing Systems (NeurIPS) 2022
+- Neural Information Processing Systems (NeurIPS) 2022, 2023
 - IEEE Transactions on Information Theory
 - SIAM Journal on Optimization
