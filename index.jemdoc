@@ -31,7 +31,7 @@ Perturbation Theory, Geometric Optimization, Nonsmooth Analysis, Inverse Problem
 . Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]]\n
 *Linglingzhi Zhu*, Chong Li, Anthony Man-Cho So. \n
 preprint, 2023.
-. Doubly Smoothed GDA for Constrained Nonconvex-Nonconcave Minimax Optimization [https://arxiv.org/abs/2212.12978 \[arXiv\]]\n
+. Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://arxiv.org/abs/2212.12978 \[arXiv\]]\n
 Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, Jose Blanchet, Jiajin Li. \n
 Neural Information Processing Systems (NeurIPS), 2023.
 . Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
