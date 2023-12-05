@@ -28,7 +28,7 @@ I was a research assistant under the mentorship of Professor [https://www.polyu.
 Perturbation Theory, Geometric Optimization, Nonsmooth Analysis, Inverse Problems, Statistical Inference
 
 == Publications 
-. Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]]\n
+. Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_quotient.pdf \[slides\]]\n
 *Linglingzhi Zhu*, Chong Li, Anthony Man-Cho So. \n
 preprint, 2023.
 . Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://arxiv.org/abs/2212.12978 \[arXiv\]]\n
@@ -43,13 +43,13 @@ Neural Information Processing Systems (NeurIPS), 2023.
 . Riemannian Linearized Proximal Algorithms for Nonnegative Inverse Eigenvalue Problem [https://lzzhuling.github.io/files/RLPA-NA-KLWYZ.pdf \[pdf\]] \n 
 (α-β) Sangho Kum, Chong Li, Jinhua Wang, Jen-Chih Yao, *Linglingzhi Zhu*. \n
 Numerical Algorithms (2023) 94:1819-1848. 
-. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf \[pdf\]] \n 
+. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_ALPA.pdf \[slides\]] \n 
 (α-β) Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang, *Linglingzhi Zhu*. \n
 Applied Mathematics & Optimization (2023) 87:52. 
-. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://lzzhuling.github.io/files/NNCC-OPT-LZS.pdf \[pdf\]]\n
+. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://lzzhuling.github.io/files/NNCC-OPT-LZS.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_NNC_C.pdf \[slides\]]\n
 Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
 NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. 
-. Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method [https://arxiv.org/abs/2112.06556 \[arXiv\]] \n
+. Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method [https://arxiv.org/abs/2112.06556 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_EB.pdf \[slides\]] \n
 *Linglingzhi Zhu*, Jinxin Wang, Anthony Man-Cho So. \n
 preprint, 2021.
 
