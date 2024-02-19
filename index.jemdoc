@@ -31,22 +31,22 @@ Perturbation Theory, Geometric Optimization, Nonsmooth Analysis, Inverse Problem
 . Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_quotient.pdf \[slides\]]\n
 *Linglingzhi Zhu*, Chong Li, Anthony Man-Cho So. \n
 preprint, 2023.
-. Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://arxiv.org/abs/2212.12978 \[arXiv\]]\n
+. Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://lzzhuling.github.io/files/UGDA-NeurIPS23.pdf \[pdf\]]\n
 Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, José Blanchet, Jiajin Li. \n
-Neural Information Processing Systems (NeurIPS), 2023.
+Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
 . Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
 Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n
 preprint, 2023.
-. LogSpecT: Feasible Graph Learning Model from Stationary Signals with Recovery Guarantees [https://arxiv.org/abs/2305.01379 \[arXiv\]]\n
+. LogSpecT: Feasible Graph Learning Model from Stationary Signals with Recovery Guarantees [https://lzzhuling.github.io/files/LogSpecT-NeurIPS23.pdf \[pdf\]]\n
 Shangyuan Liu, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
-Neural Information Processing Systems (NeurIPS), 2023.
-. Riemannian Linearized Proximal Algorithms for Nonnegative Inverse Eigenvalue Problem [https://lzzhuling.github.io/files/RLPA-NA-KLWYZ.pdf \[pdf\]] \n 
+Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
+. Riemannian Linearized Proximal Algorithms for Nonnegative Inverse Eigenvalue Problem [https://lzzhuling.github.io/files/RLPA-NA23.pdf \[pdf\]] \n 
 (α-β) Sangho Kum, Chong Li, Jinhua Wang, Jen-Chih Yao, *Linglingzhi Zhu*. \n
 Numerical Algorithms (2023) 94:1819-1848. 
-. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://lzzhuling.github.io/files/ALPA-AMO-HLWYZ.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_ALPA.pdf \[slides\]] \n 
+. Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://lzzhuling.github.io/files/ALPA-AMO23.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_ALPA.pdf \[slides\]] \n 
 (α-β) Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang, *Linglingzhi Zhu*. \n
 Applied Mathematics & Optimization (2023) 87:52. 
-. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://lzzhuling.github.io/files/NNCC-OPT-LZS.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_NNC_C.pdf \[slides\]]\n
+. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://lzzhuling.github.io/files/NNCC-OPT22.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_NNC_C.pdf \[slides\]]\n
 Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
 NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. 
 . Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method [https://arxiv.org/abs/2112.06556 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_EB.pdf \[slides\]] \n
@@ -59,7 +59,7 @@ Reviewer for
 - Mathematics of Operations Research
 - IEEE Transactions on Information Theory
 - Information and Inference: A Journal of the IMA
-- International Conference on Machine Learning (ICML) 2023
+- International Conference on Machine Learning (ICML) 2023, 2024
 - Neural Information Processing Systems (NeurIPS) 2022, 2023
 - International Conference on Learning Representations (ICLR) 2024
 - NeurIPS Workshop on Optimization for Machine Learning  (OPT) 2023
