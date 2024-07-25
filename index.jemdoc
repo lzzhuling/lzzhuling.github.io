@@ -30,7 +30,7 @@ Perturbation Theory, Geometric Optimization, Nonsmooth Analysis, Inverse Problem
 == Publications 
 . Differentially Private Online Federated Learning with Correlated Noise [https://arxiv.org/abs/2403.16542 \[arXiv\]]\n
 Jiaojiao Zhang, *Linglingzhi Zhu*, Mikael Johansson. \n
-preprint, 2024.
+Accepted by 63rd IEEE Conference on Decision and Control (CDC 2024).
 . Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_quotient.pdf \[slides\]]\n
 *Linglingzhi Zhu*, Chong Li, Anthony Man-Cho So. \n
 preprint, 2023.
@@ -58,11 +58,12 @@ preprint, 2021.
 
 == Professional Service
 Reviewer for
-- SIAM Journal on Optimization
-- Mathematics of Operations Research
 - IEEE Transactions on Information Theory
 - Information and Inference: A Journal of the IMA
-- International Conference on Machine Learning (ICML) 2023, 2024
-- Neural Information Processing Systems (NeurIPS) 2022, 2023
+- Mathematics of Operations Research
+- SIAM Journal on Optimization
+- IEEE Conference on Decision and Control (CDC) 2024
 - International Conference on Learning Representations (ICLR) 2024
+- International Conference on Machine Learning (ICML) 2023, 2024
+- Neural Information Processing Systems (NeurIPS) 2022, 2023, 2024
 - NeurIPS Workshop on Optimization for Machine Learning  (OPT) 2023
