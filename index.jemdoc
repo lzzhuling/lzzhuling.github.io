@@ -29,37 +29,50 @@ I am a Postdoctoral Fellow at the H. Milton Stewart School of Industrial and Sys
 == Research Interests
 Perturbation Theory, Geometric Optimization, Nonsmooth Analysis, Inverse Problems, Statistical Inference
 
-== Publications 
+
+== Publications
+
+=== Preprints
+. Locally Differentially Private Online Federated Learning With Correlated Noise [https://arxiv.org/abs/2411.18752 \[arXiv\]]\n
+Jiaojiao Zhang, *Linglingzhi Zhu*, Dominik Fay, Mikael Johansson. \n
+preprint, 2024.
 . Shuffling Gradient Descent-Ascent with Variance Reduction for Nonconvex-Strongly ConcaveSmooth Minimax Problems [https://arxiv.org/abs/2410.04761 \[arXiv\]]\n
 Xia Jiang, *Linglingzhi Zhu*, Anthony Man-Cho So, Shisheng Cui, Jian Sun. \n
 preprint, 2024.
-. Differentially Private Online Federated Learning with Correlated Noise [https://arxiv.org/abs/2403.16542 \[arXiv\]]\n
-Jiaojiao Zhang, *Linglingzhi Zhu*, Mikael Johansson. \n
-Accepted by 63rd IEEE Conference on Decision and Control (CDC 2024).
 . Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_quotient.pdf \[slides\]]\n
 *Linglingzhi Zhu*, Chong Li, Anthony Man-Cho So. \n
 preprint, 2023.
-. Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://lzzhuling.github.io/files/UGDA-NeurIPS23.pdf \[pdf\]]\n
-Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, José Blanchet, Jiajin Li. \n
-Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
 . Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [https://arxiv.org/abs/2209.10825 \[arXiv\]]\n
 Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n
-preprint, 2023.
-. LogSpecT: Feasible Graph Learning Model from Stationary Signals with Recovery Guarantees [https://lzzhuling.github.io/files/LogSpecT-NeurIPS23.pdf \[pdf\]]\n
-Shangyuan Liu, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
-Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
+preprint, 2023. \n
+Preliminary version accepted by NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. [https://lzzhuling.github.io/files/NNCC-OPT22.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_NNC_C.pdf \[slides\]]\n
+. Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method [https://arxiv.org/abs/2112.06556 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_EB.pdf \[slides\]] \n
+*Linglingzhi Zhu*, Jinxin Wang, Anthony Man-Cho So. \n
+preprint, 2021.
+
+
+
+=== Journal Articles
 . Riemannian Linearized Proximal Algorithms for Nonnegative Inverse Eigenvalue Problem [https://lzzhuling.github.io/files/RLPA-NA23.pdf \[pdf\]] \n 
 (α-β) Sangho Kum, Chong Li, Jinhua Wang, Jen-Chih Yao, *Linglingzhi Zhu*. \n
 Numerical Algorithms (2023) 94:1819-1848. 
 . Linearized Proximal Algorithms with Adaptive Stepsizes for Convex Composite Optimization with Applications [https://lzzhuling.github.io/files/ALPA-AMO23.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_ALPA.pdf \[slides\]] \n 
 (α-β) Yaohua Hu, Chong Li, Jinhua Wang, Xiaoqi Yang, *Linglingzhi Zhu*. \n
 Applied Mathematics & Optimization (2023) 87:52. 
-. Nonsmooth Composite Nonconvex-Concave Minimax Optimization [https://lzzhuling.github.io/files/NNCC-OPT22.pdf \[pdf\]][https://lzzhuling.github.io/files/slides_NNC_C.pdf \[slides\]]\n
-Jiajin Li, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
-NeurIPS 2022 Workshop on Optimization for Machine Learning (OPT 2022), Oral. 
-. Orthogonal Group Synchronization with Incomplete Measurements: Error Bounds and Linear Convergence of the Generalized Power Method [https://arxiv.org/abs/2112.06556 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_EB.pdf \[slides\]] \n
-*Linglingzhi Zhu*, Jinxin Wang, Anthony Man-Cho So. \n
-preprint, 2021.
+
+=== Conference Proceedings
+. Differentially Private Online Federated Learning with Correlated Noise [https://arxiv.org/abs/2403.16542 \[arXiv\]]\n
+Jiaojiao Zhang, *Linglingzhi Zhu*, Mikael Johansson. \n
+Accepted by 63rd IEEE Conference on Decision and Control (CDC 2024).
+. Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://lzzhuling.github.io/files/UGDA-NeurIPS23.pdf \[pdf\]]\n
+Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, José Blanchet, Jiajin Li. \n
+Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
+. LogSpecT: Feasible Graph Learning Model from Stationary Signals with Recovery Guarantees [https://lzzhuling.github.io/files/LogSpecT-NeurIPS23.pdf \[pdf\]]\n
+Shangyuan Liu, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
+Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
+
+
+
 
 == Professional Service
 Reviewer for
