@@ -33,6 +33,10 @@ Perturbation Theory, Geometric Optimization, Nonsmooth Analysis, Inverse Problem
 == Publications
 
 === Preprints
+. Distributionally Robust Optimization via Iterative Algorithms in Continuous Probability Spaces
+[https://arxiv.org/abs/2412.20556 \[arXiv\]]\n
+*Linglingzhi Zhu*, Yao Xie. \n
+preprint, 2024.
 . Locally Differentially Private Online Federated Learning With Correlated Noise [https://arxiv.org/abs/2411.18752 \[arXiv\]]\n
 Jiaojiao Zhang, *Linglingzhi Zhu*, Dominik Fay, Mikael Johansson. \n
 preprint, 2024.
@@ -61,6 +65,9 @@ Numerical Algorithms (2023) 94:1819-1848.
 Applied Mathematics & Optimization (2023) 87:52. 
 
 === Conference Proceedings
+. Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave MinimaxOptimization \n
+Xia Jiang, *Linglingzhi Zhu*, Taoli Zheng, Anthony Man-Cho So. \n
+Accepted by 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
 . Differentially Private Online Federated Learning with Correlated Noise [https://arxiv.org/abs/2403.16542 \[arXiv\]]\n
 Jiaojiao Zhang, *Linglingzhi Zhu*, Mikael Johansson. \n
 Accepted by 63rd IEEE Conference on Decision and Control (CDC 2024).
