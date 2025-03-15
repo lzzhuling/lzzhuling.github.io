@@ -37,9 +37,6 @@ Mathematical Optimization, Computational Data Analysis, Perturbation Theory, Non
 [https://arxiv.org/abs/2412.20556 \[arXiv\]]\n
 *Linglingzhi Zhu*, Yao Xie. \n
 preprint, 2024.
-. Locally Differentially Private Online Federated Learning With Correlated Noise [https://arxiv.org/abs/2411.18752 \[arXiv\]]\n
-Jiaojiao Zhang, *Linglingzhi Zhu*, Dominik Fay, Mikael Johansson. \n
-preprint, 2024.
 . Shuffling Gradient Descent-Ascent with Variance Reduction for Nonconvex-Strongly ConcaveSmooth Minimax Problems [https://arxiv.org/abs/2410.04761 \[arXiv\]]\n
 Xia Jiang, *Linglingzhi Zhu*, Anthony Man-Cho So, Shisheng Cui, Jian Sun. \n
 preprint, 2024.
@@ -53,6 +50,9 @@ preprint, 2021.
 
 
 === Journal Articles
+. Locally Differentially Private Online Federated Learning With Correlated Noise [https://arxiv.org/abs/2411.18752 \[arXiv\]]\n
+Jiaojiao Zhang, *Linglingzhi Zhu*, Dominik Fay, Mikael Johansson. \n
+Accepted by IEEE Transactions on Signal Processing, 2025. \n
 . Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [https://lzzhuling.github.io/files/NCNC-MP24.pdf \[pdf\]]\n
 Jiajin Li, *Linglingzhi Zhu*\*, Anthony Man-Cho So. \n
 Mathematical Programming, Series A, 2024. \n
