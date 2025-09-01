@@ -50,9 +50,9 @@ preprint, 2021.
 
 
 === Journal Articles
-. Locally Differentially Private Online Federated Learning With Correlated Noise [https://arxiv.org/abs/2411.18752 \[arXiv\]]\n
+. Locally Differentially Private Online Federated Learning With Correlated Noise [https://lzzhuling.github.io/files/OFL-TSP25.pdf \[pdf\]]\n
 Jiaojiao Zhang, *Linglingzhi Zhu*, Dominik Fay, Mikael Johansson. \n
-Accepted by IEEE Transactions on Signal Processing, 2025. \n
+IEEE Transactions on Signal Processing (2025) 73:1518-1531. \n
 . Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [https://lzzhuling.github.io/files/NCNC-MP24.pdf \[pdf\]]\n
 Jiajin Li, *Linglingzhi Zhu*\*, Anthony Man-Cho So. \n
 Mathematical Programming, Series A, 2024. \n
@@ -67,16 +67,16 @@ Applied Mathematics & Optimization (2023) 87:52.
 === Conference Proceedings
 . Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave MinimaxOptimization [https://lzzhuling.github.io/files/VRNCC-ICASSP25.pdf \[pdf\]]\n
 Xia Jiang, *Linglingzhi Zhu*, Taoli Zheng, Anthony Man-Cho So. \n
-Accepted by 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
-. Differentially Private Online Federated Learning with Correlated Noise [https://arxiv.org/abs/2403.16542 \[arXiv\]]\n
+Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
+. Differentially Private Online Federated Learning with Correlated Noise [https://lzzhuling.github.io/files/OFL-CDC24.pdf \[pdf\]]\n
 Jiaojiao Zhang, *Linglingzhi Zhu*, Mikael Johansson. \n
-Accepted by 63rd IEEE Conference on Decision and Control (CDC 2024).
+Proceedings of the 63rd IEEE Conference on Decision and Control (CDC 2024), pp 3140-3146, 2024.
 . Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://lzzhuling.github.io/files/UGDA-NeurIPS23.pdf \[pdf\]]\n
 Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, José Blanchet, Jiajin Li. \n
-Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
+Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 54075-54110, 2023.
 . LogSpecT: Feasible Graph Learning Model from Stationary Signals with Recovery Guarantees [https://lzzhuling.github.io/files/LogSpecT-NeurIPS23.pdf \[pdf\]]\n
 Shangyuan Liu, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
-Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
+Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 80142-80164, 2023.
 
 
 
