@@ -33,10 +33,15 @@ Mathematical Optimization, Computational Data Analysis, Perturbation Theory, Non
 == Publications
 
 === Preprints
+. Beyond Maximum Likelihood: Variational Inequality Estimation for Generalized Linear Models
+[https://arxiv.org/abs/2511.03087 \[arXiv\]]\n
+*Linglingzhi Zhu*, Jonghyeok Lee, Yao Xie. \n
+preprint, 2025.
 . Distributionally Robust Optimization via Iterative Algorithms in Continuous Probability Spaces
 [https://arxiv.org/abs/2412.20556 \[arXiv\]]\n
 *Linglingzhi Zhu*, Yao Xie. \n
-preprint, 2024.
+preprint, 2024.\n
+Preliminary version accepted by NeurIPS 2025 Workshop on Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making.\n
 . Shuffling Gradient Descent-Ascent with Variance Reduction for Nonconvex-Strongly ConcaveSmooth Minimax Problems [https://arxiv.org/abs/2410.04761 \[arXiv\]]\n
 Xia Jiang, *Linglingzhi Zhu*, Anthony Man-Cho So, Shisheng Cui, Jian Sun. \n
 preprint, 2024.
@@ -92,6 +97,7 @@ Reviewer for
 - Operations Research Letters
 - Pacific Journal of Optimization
 - SIAM Journal on Optimization
+- Transactions on Machine Learning Research
 - AAAI Conference on Artificial Intelligence (AAAI) 2025
 - IEEE Conference on Decision and Control (CDC) 2024
 - International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
