@@ -76,12 +76,13 @@ Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and 
 . Differentially Private Online Federated Learning with Correlated Noise [https://lzzhuling.github.io/files/OFL-CDC24.pdf \[pdf\]]\n
 Jiaojiao Zhang, *Linglingzhi Zhu*, Mikael Johansson. \n
 Proceedings of the 63rd IEEE Conference on Decision and Control (CDC 2024), pp. 3140-3146, 2024.
-. Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://lzzhuling.github.io/files/UGDA-NeurIPS23.pdf \[pdf\]]\n
-Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, José Blanchet, Jiajin Li. \n
-Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 54075-54110, 2023.
 . LogSpecT: Feasible Graph Learning Model from Stationary Signals with Recovery Guarantees [https://lzzhuling.github.io/files/LogSpecT-NeurIPS23.pdf \[pdf\]]\n
 Shangyuan Liu, *Linglingzhi Zhu*, Anthony Man-Cho So. \n 
 Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 80142-80164, 2023.
+. Universal Gradient Descent Ascent Method for Nonconvex-Nonconcave Minimax Optimization [https://lzzhuling.github.io/files/UGDA-NeurIPS23.pdf \[pdf\]]\n
+Taoli Zheng, *Linglingzhi Zhu*, Anthony Man-Cho So, José Blanchet, Jiajin Li. \n
+Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 54075-54110, 2023.
+
 
 
 
@@ -90,6 +91,7 @@ Advances in Neural Information Processing Systems 36 (NeurIPS 2023), pp. 80142-8
 Reviewer for
 - IEEE Transactions on Information Theory
 - IEEE Transactions on Mobile Computing
+- IEEE Transactions on Signal Processing
 - Information and Inference: A Journal of the IMA
 - Journal of Scientific Computing
 - Mathematical Programming
