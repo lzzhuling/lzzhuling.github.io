@@ -252,7 +252,7 @@ def standardconf():
   </div>
   
   [lastupdated]
-  Last updated on |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+  Last updated on |.
 
   [sourcelink]
   (<a href="|">source</a>)
