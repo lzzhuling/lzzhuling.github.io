@@ -384,47 +384,42 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
-/* ===== Mobile-friendly jemdoc tweaks ===== */
+/* ===== Mobile-friendly jemdoc tweaks  ===== */
 
-/* FIX 3: avoid conflicting width/padding rules with body-centered layout */
-#layout-content {
-    padding: 28px 20px;
-}
-
-/* Images and media should not overflow */
-img, video {
-    max-width: 100%;
-    height: auto;
-}
-
-/* Code blocks/long URLs should not break layout */
-pre {
-    overflow-x: auto;
-}
-code, pre {
-    overflow-wrap: anywhere;
-}
-
-/* Tables often overflow on phones */
-table {
-    width: 100%;
-    display: block;
-    overflow-x: auto;
-}
-
-/* Small screens */
 @media (max-width: 768px) {
     body {
-        font-size: 16px;
-        line-height: 1.55;
+        font-size: 14.5px; 
+        line-height: 1.5;
+        padding: 10px !important; 
+        background: #fdfbf7; 
     }
+
     #layout-content {
-        padding: 18px 14px;
+        padding: 15px 12px !important;
+        border-radius: 8px;
     }
+
     h1 {
-        font-size: 1.8em;
+        font-size: 1.6em; 
+        margin-top: 0.3em;
+        margin-bottom: 0.3em;
     }
+
     h2 {
-        font-size: 1.25em;
+        font-size: 1.25em; 
+        margin-top: 0.8em;
+        padding-top: 0.2em;
+    }
+    
+    li, p {
+        margin-bottom: 0.5em; 
+    }
+    
+    #layout-menu {
+        margin-bottom: 10px;
+        white-space: normal;
+        border: none;
+        background: transparent;
+        padding: 0;
     }
 }
