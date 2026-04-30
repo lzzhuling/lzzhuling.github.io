@@ -32,11 +32,14 @@ Mathematical Optimization, Computational Data Analysis, Perturbation Theory, Non
 == Publications
 
 === Preprints
+. CoreFlow: Low-Rank Matrix Generative Models [https://arxiv.org/abs/2604.24959 \[arXiv\]]\n
+Dongze Wu, *Linglingzhi Zhu*, Yao Xie. \n
+preprint, 2026.\n
+. Primal-Dual Methods for Nonsmooth Nonconvex Optimization with Orthogonality Constraints [https://arxiv.org/abs/2604.04130 \[arXiv\]]\n
+*Linglingzhi Zhu*, Wentao Ding, Shangyuan Liu, Anthony Man-Cho So. \n
+preprint, 2026.\n
 . Dynamic Proximal Gradient Algorithms for Schatten-p Quasi-Norm Regularized Problems [https://arxiv.org/abs/2603.00333 \[arXiv\]]\n
 Weiping Shen$^{\dagger}$, *Linglingzhi Zhu*$^{\dagger}$, Yaohua Hu, Chong Li, Xiaoqi Yang. \n
-preprint, 2026.\n
-. Dual Quaternion SE(3) Synchronization with Recovery Guarantees [https://arxiv.org/abs/2602.00324 \[arXiv\]]\n
-Jianing Zhao$^{\dagger}$, *Linglingzhi Zhu*$^{\dagger *}$, Anthony Man-Cho So. \n
 preprint, 2026.\n
 . Worst-Case Generation via Minimax Optimization over Continuous Distributions [https://arxiv.org/abs/2512.08176 \[arXiv\]]\n
 (α-β) Xiuyuan Cheng, Yao Xie, *Linglingzhi Zhu*, Yunqin Zhu. \n
@@ -50,9 +53,6 @@ preprint, 2025.
 *Linglingzhi Zhu*, Yao Xie. \n
 preprint, 2024.\n
 Preliminary version accepted by NeurIPS 2025 Workshop on Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making.\n
-. Shuffling Gradient Descent-Ascent with Variance Reduction for Nonconvex-Strongly ConcaveSmooth Minimax Problems [https://arxiv.org/abs/2410.04761 \[arXiv\]]\n
-Xia Jiang, *Linglingzhi Zhu*, Anthony Man-Cho So, Shisheng Cui, Jian Sun. \n
-preprint, 2024.
 . Rotation Group Synchronization via Quotient Manifold [https://arxiv.org/abs/2306.12730 \[arXiv\]][https://lzzhuling.github.io/files/slides_sync_quotient.pdf \[slides\]]\n
 *Linglingzhi Zhu*, Chong Li, Anthony Man-Cho So. \n
 preprint, 2023.
@@ -63,6 +63,9 @@ preprint, 2021.
 
 
 === Journal Articles
+. Variance-Reduced Shuffling Algorithms for Nonconvex-Strongly Concave Minimax Problems [https://arxiv.org/abs/2410.04761 \[arXiv\]]\n
+Xia Jiang, *Linglingzhi Zhu*, Anthony Man-Cho So, Shisheng Cui, Jian Sun. \n
+Accepted by IEEE Transactions on Automatic Control, 2026. \n
 . Nonsmooth Nonconvex-Nonconcave Minimax Optimization: Primal-Dual Balancing and Iteration Complexity Analysis [https://lzzhuling.github.io/files/NCNC-MP24.pdf \[pdf\]]\n
 Jiajin Li, *Linglingzhi Zhu*\*, Anthony Man-Cho So. \n
 Mathematical Programming, Series A (2025) 214(1-2):591-641. \n
@@ -78,6 +81,9 @@ Numerical Algorithms (2023) 94:1819-1848.
 Applied Mathematics & Optimization (2023) 87:52. 
 
 === Conference Proceedings
+. Dual Quaternion SE(3) Synchronization with Recovery Guarantees [https://arxiv.org/abs/2602.00324 \[arXiv\]]\n
+Jianing Zhao$^{\dagger}$, *Linglingzhi Zhu*$^{\dagger *}$, Anthony Man-Cho So. \n
+Accepted by 43rd International Conference on Machine Learning (ICML 2026), 2026. \n
 . Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave MinimaxOptimization [https://lzzhuling.github.io/files/VRNCC-ICASSP25.pdf \[pdf\]]\n
 Xia Jiang, *Linglingzhi Zhu*, Taoli Zheng, Anthony Man-Cho So. \n
 Proceedings of the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
